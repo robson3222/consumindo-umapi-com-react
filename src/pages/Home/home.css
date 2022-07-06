@@ -1,0 +1,11 @@
+.lista-filmes{
+    max-width: 800px;
+    margin: 14px auto;
+
+}
+.lista-filmes article{
+    width: 100%;
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 4px;
+}
