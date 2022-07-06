@@ -1,6 +1,7 @@
 import {useEffect, useState } from 'react';
 import api from '../../services/api';
 import { Link }from 'react-router-dom';
+import './home.css';
   
 // url da api: movie/now_playing?api_key=6a0aae5ada35be3e977a9b7c7871f9b6
 
@@ -29,8 +30,8 @@ setFilmes(response.data.results.slice(0,10))
 
 
     return(
-        <div className='container'>
-            <div className='"lista-filmes'>
+        <div className="container">
+            <div className="lista-filmes">
                 {filmes.map((filme) => {
                     return(
                         <article key={filme.id}>
