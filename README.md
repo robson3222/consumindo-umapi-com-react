@@ -7,8 +7,7 @@ Projeto feito por min usado no Front-end ReactJs consumindo api do site www.them
 ## Layout web
 ![Web 1](https://github.com/robson3222/consumindo-umapi-com-react/blob/main/topzerafilme.png)
 
-## pagina nao existe
-![Web 1](https://github.com/robson3222/consumindo-umapi-com-react/blob/main/erro404.png)
+
 
 # Tecnologias utilizadas
 
