@@ -1,13 +1,14 @@
 # Sobre o projeto
 
-Projeto Front-end ReactJS 
+Projeto feito por min usado no Front-end ReactJs consumindo api do site www.themoviedb.com
 
 
 
 ## Layout web
 ![Web 1](https://github.com/robson3222/consumindo-umapi-com-react/blob/main/topzerafilme.png)
 
-
+## pagina nao existe
+![Web 1](https://github.com/robson3222/consumindo-umapi-com-react/blob/main/erro404.png)
 
 # Tecnologias utilizadas
 
