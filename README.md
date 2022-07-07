@@ -20,7 +20,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/robson3222/app-Cronometro-em-Reactjs/
+git clone https://github.com/robson3222/consumindo-umapi-com-react
 
 
 
